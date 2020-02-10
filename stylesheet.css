@@ -1,0 +1,65 @@
+body {
+  font-family: "impact"
+}
+
+.header {
+  background-color: #b0c4de;
+  height: 80px;
+}
+.main {
+  background-color: #f0e68c;
+  height: 2000px;
+}
+.footer {
+  background-color: #8b8bf0;
+  height: 250px;
+}
+
+.header-logo {
+  font-size: 60px;
+  padding-left: 40px;
+  float: left;
+}
+.header-list li{
+  list-style: none;
+  font-size: 20px;
+  float:left;
+  padding: 30px;
+}
+
+.footer-logo {
+  font-size: 60px;
+  padding: 30px 20px;
+}
+.footer-list li{
+  list-style: none;
+  padding: 0px 30px;
+  float: right;
+  font-size: 60px;
+}
+
+.copy-container h1{
+  font-size: 140px;
+}
+.copy-container span{
+  color: red;
+}
+.copy-container h2{
+  font-size: 60px;
+}
+.contents-item p{
+  font-size: 50px;
+  margin: 50px;
+}
+.section-title {
+  font-size: 60px;
+  border-bottom: 5px solid red;
+  margin: 40px;
+}
+.contents-item img{
+  margin: 50px;
+}
+.contact-form p{
+  font-size: 30px;
+  margin-top: 40px;
+}
